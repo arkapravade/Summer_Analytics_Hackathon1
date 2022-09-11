@@ -2,7 +2,6 @@
 
 The Hackathon Project was done using two methods, Linear Regression & Neural Network
 
-##Neural Network
 The dataset contains over 15,000 patterns. From the dataframe, two features, being 'Rating' and 'Actual Price' were found to be the most correlated to the output which is 
 'Discounted Price'. In order to generalise the model we are willing to develope, a certain 
 percentage of the data that can be considered as outlier values have been excluded from consideration. The values were then scaled to proper a range and fitted to the model.
