@@ -1,4 +1,4 @@
-# Summer_Analytics_Hackathon1
+# Summer Analytics Hackathon Project
 
 The Hackathon Project was done using two methods, Linear Regression & Neural Network
 
